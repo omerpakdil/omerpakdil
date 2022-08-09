@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate blockchain developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Unity3D**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **C# and Unity**
+- 💬 Ask me about **Web3 and Blockchain**
 
 - 📫 How to reach me **callousity@gmail.com**
 
