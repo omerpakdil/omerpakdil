@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **JS and Algorithms**
 
