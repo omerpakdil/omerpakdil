@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **JS and Algorithms**
-
 - 📫 How to reach me **callousity@gmail.com**
 
 - 📄 Know about my [CV](https://drive.google.com/file/d/1B_9eUXKb3i0cvMRu0yf9Je_WiF6YV8H3/view?usp=sharing)
